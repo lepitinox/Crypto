@@ -182,3 +182,5 @@ def VigenereCrackKey(MSG):
 
 
 if __name__ == "__main__":
+#exemple :
+	print(VigenereCrack(OpenFile("message7.txt")))
